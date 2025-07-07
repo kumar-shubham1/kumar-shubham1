@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">💻 Aspiring Software Engineer | 🎓 B.Tech CSE @ Graphic Era | 🚀 Full Stack Developer & AI Explorer | 📚 Passionate Problem Solver</h3>
+<h3 align="center">💻 Aspiring Software Engineer | 🎓 B.Tech CSE @ Graphic Era University | 🚀 Full Stack Developer & AI Explorer | 📚 Passionate Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=460&lines=Frontend+Developer+%F0%9F%92%BB;DSA+Problem+Solver+%F0%9F%A7%90;ML%2FAI+Explorer+%F0%9F%96%A5%EF%B8%8F;React+%7C+Node+%7C+Vue+%7C+MySQL+%F0%9F%92%A1" alt="Typing SVG" />
