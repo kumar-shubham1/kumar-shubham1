@@ -1,51 +1,60 @@
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">💻 Aspiring Software Engineer | 🎓 B.Tech CSE @ Graphic Era | 🚀 Full Stack Developer & AI Explorer | 📚 Passionate Problem Solver</h3>
-
-
+<!-- 🌟 Banner Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=460&lines=Frontend+Developer+%F0%9F%92%BB;DSA+Problem+Solver+%F0%9F%A7%90;ML%2FAI+Explorer+%F0%9F%96%A5%EF%B8%8F;React+%7C+Node+%7C+Vue+%7C+MySQL+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://i.imgur.com/Nh5G2jb.png" width="100%" alt="Shubham Kumar Banner"/>
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Kumar;Aspiring+Software+Engineer+from+India;Full+Stack+%7C+AI+%7C+ML+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG">
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kumar-shubham1&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-shubham1" />
+  <img src="https://img.shields.io/github/followers/kumar-shubham1?label=Followers&style=social" alt="GitHub Followers"/>
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE-red?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graphic%20Era%20University-Dehradun-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-green?style=for-the-badge&logo=webcomponents.org&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Explorer-purple?style=for-the-badge&logo=ai&logoColor=white" />
+</div>
 
 ---
 
 ### ✨ About Me
-- 🎓 Pursuing **B.Tech in Computer Science** @ Graphic Era University
-- 💡 Interests: Full Stack Development, AI Projects, and System Design
-- 📊 Certified in **Python** and **SQL** from OneRoadmap
+- 🎓 Pursuing **B.Tech in Computer Science** @ Graphic Era University (2024–28)
+- 🧠 Exploring **Full Stack Web Development**, **AI/ML**, and **System Design**
+- 📈 Certified in **Python** & **SQL** from OneRoadmap
 - 👨‍💻 Solved **185+ DSA problems** on GeeksforGeeks
-- 🛠️ Co-developing an **E-learning Platform (EZUDEK)** with real-time features
-- 📫 Reach me at: [shubhamvermaa045@gmail.com](mailto:shubhamvermaa045@gmail.com)
+- 🔧 Currently working on: **EZUDEK E-learning Platform**
+- 📫 Contact: [shubhamvermaa045@gmail.com](mailto:shubhamvermaa045@gmail.com)
 
 ---
 
 ### 💼 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,mysql,html,css,js,react,vue,bootstrap,tailwind,canva,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,js,react,vue,nodejs,bootstrap,tailwind,git,github,vscode,canva" />
 </p>
 
 ---
 
-### 📂 My Featured Projects
+### 📂 Featured Projects
 
 | 💻 Project | 📝 Description |
 |-----------|----------------|
-| 🔗 [**ATS Resume Tracker**](https://github.com/kumar-shubham1/ATS-Resume-Tracker) | AI-based resume screening tool for job seekers |
+| 🔗 [**ATS Resume Tracker**](https://github.com/kumar-shubham1/ATS-Resume-Tracker) | AI-based resume screening tool |
 | 🔗 [**Credit Card Fraud Detection**](https://github.com/kumar-shubham1/credit-card-fraud-detection) | ML model to detect fraudulent transactions |
-| 🔗 [**Vue Invoice App**](https://github.com/kumar-shubham1/vue-invoice-app) | Simple and beautiful invoicing system with Vue.js |
-| 🔗 [**Uber Ambulance**](https://github.com/kumar-shubham1/Uber_Ambulance) | On-demand ambulance booking app for emergencies |
-| 🔗 [**Weather React App**](https://github.com/kumar-shubham1/weather-reactApp) | Realtime weather app with React + OpenWeather API |
-| 🔗 [**Football Match Predictor**](https://github.com/kumar-shubham1/football-prediction) | Predicts match outcomes using machine learning |
-| 🔗 [**AI Job Tracker**](https://github.com/kumar-shubham1/AI-job-tracker) | Smart dashboard to track job applications |
-| 🔗 [**Event Ticket Assistant**](https://github.com/kumar-shubham1/Event_Ticket_Assistant) | Assistant for exploring and booking event tickets |
+| 🔗 [**Vue Invoice App**](https://github.com/kumar-shubham1/vue-invoice-app) | Invoice system with Vue.js |
+| 🔗 [**Uber Ambulance**](https://github.com/kumar-shubham1/Uber_Ambulance) | Emergency ambulance booking |
+| 🔗 [**Weather React App**](https://github.com/kumar-shubham1/weather-reactApp) | Weather forecast app with React |
+| 🔗 [**Football Match Predictor**](https://github.com/kumar-shubham1/football-prediction) | Match outcome prediction using ML |
+| 🔗 [**AI Job Tracker**](https://github.com/kumar-shubham1/AI-job-tracker) | Smart job application manager |
+| 🔗 [**Event Ticket Assistant**](https://github.com/kumar-shubham1/Event_Ticket_Assistant) | Ticket booking & filtering assistant |
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kumar-shubham1&show_icons=true&theme=tokyonight" width="47%" />
@@ -56,10 +65,10 @@
 
 ### 🏅 Achievements
 
-- ✅ Certified in Python & SQL by OneRoadmap
-- ✅ Built 8+ real-world full-stack or ML/AI projects
-- ✅ Consistent contributor & active learner
-- ✅ 185+ problems solved on GFG
+- 🧠 Solved **185+ DSA Problems**
+- 🥇 Certified in **Python & SQL** (OneRoadmap)
+- 🔧 Built **8+ Real-world Projects**
+- 🌐 Collaborated on **Team-based Hackathon Projects**
 
 ---
 
@@ -74,5 +83,5 @@
 
 <p align="center">
   <em>"Consistency is more important than intensity. Build projects. Keep learning. Stay curious." — Shubham Kumar</em><br/>
-  <strong>🗓️ Last Updated:</strong> July 07, 2025
+  <strong>🗓️ Last Updated:</strong> July 7, 2025
 </p>
