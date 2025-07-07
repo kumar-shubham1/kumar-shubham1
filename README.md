@@ -67,7 +67,7 @@
 
 <p align="left">
   <a href="mailto:shubhamvermaa045@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shubham-kumar-3844a2271"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/shubham-kumar-3844a2271](https://www.linkedin.com/in/shubham-k-62aa571b7/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
