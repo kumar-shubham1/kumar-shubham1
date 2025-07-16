@@ -71,7 +71,7 @@
 ### 📄 Resume & Profiles
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1EmtmcJ1GFJbqzdUtEW7XXtbPD23mrqtr/view?usp=sharing">
+  <a href="">
     <img src="https://img.shields.io/badge/Resume-Shubham_Kumar-blue?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/shubhamvezhpz/">
