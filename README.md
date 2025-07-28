@@ -59,7 +59,7 @@
 
 ### 🏅 Achievements & Extras
 
-- ✅ Solved **185+ DSA problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/shubhamvezhpz/)
+- ✅ Solved **200+ DSA problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/shubhamvezhpz/)
 - ✅ Certified in **Python**, **SQL**, and **Frontend Development**
 - ✅ Completed projects using **React, Node, Vue, Tailwind, MySQL**
 - ✅ Built 8+ major real-world projects and hackathon tools
