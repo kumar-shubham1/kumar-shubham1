@@ -59,7 +59,7 @@
 
 ### 🏅 Achievements & Extras
 
-- ✅ Solved **200+ DSA problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/shubhamvezhpz/)
+- ✅ Solved **200+ DSA problems** on [GeeksforGeeks](....)
 - ✅ Certified in **Python**, **SQL**, and **Frontend Development**
 - ✅ Completed projects using **React, Node, Vue, Tailwind, MySQL**
 - ✅ Built 8+ major real-world projects and hackathon tools
@@ -74,7 +74,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/Resume-Shubham_Kumar-blue?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/shubhamvezhpz/">
+  <a href="https://www.geeksforgeeks.org/user/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-shubhamvezhpz-brightgreen?style=flat-square&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
@@ -94,7 +94,7 @@
 
 <p align="left">
   <a href="mailto:shubhamvermaa045@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shubham-k-62aa571b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
