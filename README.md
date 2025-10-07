@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/Resume-Shubham_Kumar-blue?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-shubhamvezhpz-brightgreen?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-........-brightgreen?style=flat-square&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
