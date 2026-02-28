@@ -59,10 +59,10 @@
 
 ### 🏅 Achievements & Extras
 
-- ✅ Solved **200+ DSA problems** on [GeeksforGeeks](....)
+- ✅ Solved **280+ DSA problems** on [GeeksforGeeks](....)
 - ✅ Certified in **Python**, **SQL**, and **Frontend Development**
 - ✅ Completed projects using **React, Node, Vue, Tailwind, MySQL**
-- ✅ Built 8+ major real-world projects and hackathon tools
+- ✅ Built 9+ major real-world projects and hackathon tools
 - ✅ Familiar with CI/CD, GitHub workflows, and REST APIs
 - 🧠 Currently exploring **Next.js**, **MongoDB**, **Docker**, and **GCP**
 
